@@ -1,5 +1,7 @@
-<script lang="ts">
-  import '../app.postcss';
+<script>
+	import '../app.scss';
 </script>
 
-<slot />
+<div class="flex flex-col p-6 min-h-[100vh] justify-start items-center gap-6">
+	<slot />
+</div>
