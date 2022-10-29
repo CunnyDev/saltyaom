@@ -102,6 +102,10 @@
     {
       link: 'https://www.facebook.com/AomKhunpanitchot/posts/pfbid021L9i753QHFveKDkQn136UWzd4UdN2TuGCF4YUq2iu1ruFuDo12iG65aawMgHFw2El',
       img: 'https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/312423612_2300633596777967_2363806347588714007_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGcnebNyNd6TKe1QIFZ9MXy_ijlyZLWrO7-KOXJktas7j0A26TrOq1eXKiyEgsccRapaKlZtP_PeJcp2Qbcr7kq&_nc_ohc=qs-yyTUeXsMAX-lPWhP&_nc_ht=scontent-sin6-4.xx&oh=00_AfC2g0ceN26YzaAVIBqb8cT6WWeYW1doSlHMtBZKsx-Npw&oe=63626C9C'
+    },
+    {
+      link: 'https://www.facebook.com/AomKhunpanitchot/posts/pfbid0zg9PTJkjNMAmUCVuCQmE3uwpMoaLKAw69iMtGQuDw8VFhg2GE5NHFcq5R2GUJbGwl',
+      img: 'https://scontent-sin6-1.xx.fbcdn.net/v/t39.30808-6/313290207_2304611996380127_572988012694730765_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHDtmzy6ywcx5wLw3QO-ChBvqfK30NCzsO-p8rfQ0LOw9lkvEgLwwIJk-Uqb2s56C80oYPdfhvJR2K1TQE9O1fO&_nc_ohc=5OSRkcl2ndMAX_bpu6-&_nc_ht=scontent-sin6-1.xx&oh=00_AfD1odJdtbkP01DcQa0_rf8hGrGE4B1Pbnve5LDAErz8Rw&oe=63623AAC'
     }
   ];
 </script>
