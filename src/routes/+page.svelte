@@ -94,6 +94,10 @@
     {
       link: 'https://www.facebook.com/rayriffy/posts/pfbid0zHea2nvFy1wv7e38vviibUiHoBHh5G7tCLfiGu6ZxRqxz59MVms9FgptQqXCqiZWl',
       img: 'https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/312805945_2050077135179692_6884009683553562080_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFe459DtIBSidlJZwOpEcRhiNOP2GXXDZyI04_YZdcNnFoyMONnWIQ1W0ACtkfw-hgEcffTkFDwxYtCe7DWdYyi&_nc_ohc=aFthyBwC3KgAX8Fu7Ev&_nc_ht=scontent-sin6-3.xx&oh=00_AfC9GabTqpe3FrW8dMuhymjYzD25eZqvfSpQOWQgG-hbVQ&oe=6362CEA7'
+    },
+    {
+      link: 'https://www.facebook.com/photo/?fbid=2298246457016681&set=pcb.2298249410349719',
+      img: 'https://scontent-sin6-1.xx.fbcdn.net/v/t39.30808-6/312048123_2298249467016380_1874832575415040396_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeF7dKg6TIzCt2p7PZxgMaLKFaZzPZwUGksVpnM9nBQaS1HxlNcOtqeE5IktIP-NBinK0hsfV6Y4lDivqduGrLkE&_nc_ohc=53gJH5Rw938AX_oe6pN&_nc_ht=scontent-sin6-1.xx&oh=00_AfCw3bvMBHf6zDAYhCRADZx1DouJ05LnDJTF3xwk2qdWeA&oe=6361C60D'
     }
   ];
 </script>
